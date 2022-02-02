@@ -3,6 +3,7 @@
 /* !-- banner iarea style in font style */
 @import url('https://fonts.googleapis.com/css2?family=Economica:wght@700&family=Play:wght@400;700&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC&family=Fira+Sans:ital,wght@0,400;0,500;0,700;1,300;1,500;1,700&display=swap');
 
 /* todo -------------------- hello friends   */
 
@@ -244,6 +245,7 @@ body{
 .banner-area .container .content h1{
     font-weight: 700;
     position: relative;
+
 }
 
 .banner-area .container .content h1 span{
@@ -324,6 +326,7 @@ body{
 .option-area .container .row .card h3{
     color: #000;
     font-weight: 700;
+    font-family: 'Zen Kurenaido', sans-serif;
 }
 
 .option-area .container .row .card h6 a{
@@ -332,6 +335,7 @@ body{
     text-decoration: none;
     position: relative;
     text-transform: capitalize;
+    font-family: 'Dosis', sans-serif;
 }
 
 
@@ -425,6 +429,7 @@ body{
 .designer .container .col-md-6:last-child{
     background-color: antiquewhite;
     padding-left: 20px;
+    font-family: 'Zen Kurenaido', sans-serif;
 }
 
 .designer .container .col-md-6:last-child p{
@@ -438,6 +443,7 @@ body{
 
 .designer .container .col-md-6:last-child div h1{
     font-weight: 700;
+
 
 }
 
@@ -456,6 +462,7 @@ body{
 .slider-area{
     background-color: rgba(27, 38, 49, 1);
     padding: 30px 0;
+    font-family: 'Poppins', sans-serif;
 }
 
 /* first column  */
@@ -475,12 +482,14 @@ body{
     color: black;
     font-weight: bold;
     text-transform: capitalize;
+    font-family: 'Alegreya Sans SC', sans-serif;
 }
 
 .slider-area #slider .item a h4{
     color: #fff;
     text-transform: capitalize;
     text-align: center;
+    font-family: 'Alegreya Sans SC', sans-serif;
 }
 
         /* img  */
@@ -534,6 +543,8 @@ body{
 .next-point .text-center p{
     color: red;
     font-weight: 700;
+    font-family: 'Zen Kurenaido', sans-serif;
+
 }
 
 .next-point .text-center h1{
@@ -541,6 +552,8 @@ body{
     font-weight: 700;
     text-transform: capitalize;
     text-shadow: 1px 1px 4px #fff;
+    font-family: 'Zen Kurenaido', sans-serif;
+
 }
 
 /* row  */
@@ -573,6 +586,7 @@ body{
     position: relative;
     border: 2px solid #000;
     box-shadow: inset 0px 0px 8px #000;
+    font-family: 'Zen Kurenaido', sans-serif;
 } 
 
 .next-point .col-md-6 .card img{
@@ -753,11 +767,13 @@ body{
 .news .text-center p{
     font-weight: 700;
     color: red;
+    font-family: 'Zen Kurenaido', sans-serif;
 }
 
 .news .text-center h1{
     font-weight: 700;
     color: white;
+    font-family: 'Zen Kurenaido', sans-serif;
 }
 
 /* row  */
@@ -784,6 +800,7 @@ body{
     top: 84.5%;
     left: 50%;
     transform: translate(-50%, -50%);
+    font-family: 'Dosis', sans-serif;
 }
 
 
@@ -791,6 +808,7 @@ body{
 .news .row .col-md-6 .content h2{
     color: #fff;
     font-weight: 700;
+    font-family: 'Alegreya Sans SC', sans-serif;
 }
 
 .news .row .col-md-6 .content .author-flex{
@@ -862,8 +880,8 @@ body{
 }
 
 
-.all-link .row .col-md-3:hover span{
-    top: 50% ;
+.all-link .row .col-3:hover span{
+    top: 50%;
     opacity: 1;
 }
 
@@ -874,6 +892,7 @@ body{
 .footer{
     background-color: rgba(27, 38, 49, 1);
     padding: 30px 0;
+    font-family: 'Zen Kurenaido', sans-serif;
 }
 
 /* left-side column inner data style  */
@@ -887,6 +906,7 @@ body{
     color: #fff;
     font-weight: 700;
     text-shadow: 1px 1px 9px #000;
+    font-family: 'Alegreya Sans SC', sans-serif;
 }
 
 .footer .nav-links ul li a{
@@ -911,6 +931,7 @@ body{
     font-weight: 700;
     margin: 10px 0;
     text-shadow: 1px 1px 9px #000;
+    font-family: 'Alegreya Sans SC', sans-serif;
 
 }
 .footer .main-area h5{
@@ -945,6 +966,7 @@ body{
     color: #fff;
     font-weight: 700;
     text-shadow: 1px 1px 9px #000;
+    font-family: 'Alegreya Sans SC', sans-serif;
 }
 
 .footer .address-area .address{
